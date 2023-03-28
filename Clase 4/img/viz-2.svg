@@ -1,0 +1,2489 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+ 
+    <g transform="translate(20,15)" id="visualization">
+        <g>
+            <rect x="960" y="0" height="2.6392801216462973" width="5" fill="black"><title>01/01/1979: 21374</title></rect>
+            <rect x="960" y="7.639280121646298" height="2.7459675935796" width="5" fill="black"><title>01/01/1980: 22238</title></rect>
+            <rect x="960" y="15.385247715225898" height="3.010957541228752" width="5" fill="black"><title>01/01/1981: 24384</title></rect>
+            <rect x="960" y="23.39620525645465" height="3.2135896493798484" width="5" fill="black"><title>01/01/1982: 26025</title></rect>
+            <rect x="960" y="31.609794905834498" height="3.2729839479908662" width="5" fill="black"><title>01/01/1991: 26506</title></rect>
+            <rect x="960" y="39.882778853825364" height="3.331884323120711" width="5" fill="black"><title>01/01/1983: 26983</title></rect>
+            <rect x="960" y="48.214663176946075" height="3.363495425915758" width="5" fill="black"><title>01/01/1984: 27239</title></rect>
+            <rect x="960" y="56.57815860286183" height="3.40189797657694" width="5" fill="black"><title>01/01/1985: 27550</title></rect>
+            <rect x="960" y="64.98005657943878" height="3.423877571489129" width="5" fill="black"><title>01/01/1986: 27728</title></rect>
+            <rect x="960" y="73.40393415092791" height="3.887177796829107" width="5" fill="black"><title>01/01/1987: 31480</title></rect>
+            <rect x="960" y="82.29111194775702" height="4.216624758771303" width="5" fill="black"><title>01/01/1988: 34148</title></rect>
+            <rect x="960" y="91.50773670652832" height="4.382953491056199" width="5" fill="black"><title>01/01/1989: 35495</title></rect>
+            <rect x="960" y="100.89069019758452" height="4.905771495877502" width="5" fill="black"><title>01/01/1990: 39729</title></rect>
+            <rect x="960" y="110.79646169346202" height="5.4153770475774365" width="5" fill="black"><title>01/01/1992: 43856</title></rect>
+            <rect x="960" y="121.21183874103946" height="7.054956043330208" width="5" fill="black"><title>01/01/1993: 57134</title></rect>
+            <rect x="960" y="133.26679478436967" height="7.51652753648608" width="5" fill="black"><title>01/01/1994: 60872</title></rect>
+            <rect x="0" y="52.5" height="7.533814858327133" width="5" fill="black"><title>El Salvador: 61012</title></rect>
+            <rect x="0" y="65.03381485832713" height="7.672360394796073" width="5" fill="black"><title>Japan: 62134</title></rect>
+            <rect x="960" y="145.78332232085575" height="7.948710582512177" width="5" fill="black"><title>01/01/1995: 64372</title></rect>
+            <rect x="0" y="77.7061752531232" height="8.271366096588281" width="5" fill="black"><title>Ucraine: 66985</title></rect>
+            <rect x="960" y="158.73203290336792" height="8.416950042663899" width="5" fill="black"><title>01/01/1996: 68164</title></rect>
+            <rect x="0" y="90.97754134971149" height="9.185371498498341" width="5" fill="black"><title>Germany: 74387</title></rect>
+            <rect x="0" y="105.16291284820983" height="9.357380350816698" width="5" fill="black"><title>United Kingdom: 75780</title></rect>
+            <rect x="0" y="119.52029319902653" height="9.446903981779258" width="5" fill="black"><title>Albania: 76505</title></rect>
+            <rect x="960" y="172.14898294603182" height="9.87600000604803" width="5" fill="black"><title>01/01/1997: 79980</title></rect>
+            <rect x="960" y="187.02498295207985" height="12.144714035944531" width="5" fill="black"><title>01/01/1998: 98353</title></rect>
+            <rect x="0" y="133.96719718080578" height="12.65999970767794" width="5" fill="black"><title>France: 102526</title></rect>
+            <rect x="960" y="204.16969698802438" height="12.97561681214728" width="5" fill="black"><title>01/01/1999: 105082</title></rect>
+            <rect x="960" y="222.14531380017166" height="13.371619963177523" width="5" fill="black"><title>01/01/2003: 108289</title></rect>
+            <rect x="960" y="240.5169337633492" height="14.548022214460559" width="5" fill="black"><title>01/01/2000: 117816</title></rect>
+            <rect x="960" y="260.06495597780975" height="16.397271727971088" width="5" fill="black"><title>01/01/2001: 132792</title></rect>
+            <rect x="960" y="281.46222770578083" height="16.647320490314826" width="5" fill="black"><title>01/01/2002: 134817</title></rect>
+            <rect x="960" y="303.10954819609566" height="17.690486882551568" width="5" fill="black"><title>01/01/2004: 143265</title></rect>
+            <rect x="0" y="151.62719688848372" height="17.926705787422407" width="5" fill="black"><title>Romania: 145178</title></rect>
+            <rect x="0" y="174.55390267590613" height="18.110198360678055" width="5" fill="black"><title>Morocco: 146664</title></rect>
+            <rect x="960" y="325.8000350786472" height="20.114663328147117" width="5" fill="black"><title>01/01/2005: 162897</title></rect>
+            <rect x="960" y="350.91469840679434" height="21.082012466023855" width="5" fill="black"><title>01/01/2006: 170731</title></rect>
+            <rect x="0" y="197.66410103658419" height="21.30674764995743" width="5" fill="black"><title>Ecuador: 172551</title></rect>
+            <rect x="960" y="376.9967108728182" height="21.73707848292912" width="5" fill="black"><title>01/01/2007: 176036</title></rect>
+            <rect x="960" y="403.7337893557473" height="22.396466330294686" width="5" fill="black"><title>01/01/2008: 181376</title></rect>
+            <rect x="960" y="431.130255686042" height="24.618628072090644" width="5" fill="black"><title>01/01/2009: 199372</title></rect>
+            <rect x="0" y="223.97084868654161" height="25.962470383491222" width="5" fill="black"><title>Sri Lanka: 210255</title></rect>
+            <rect x="960" y="460.74888375813265" height="26.830417420782" width="5" fill="black"><title>01/01/2010: 217284</title></rect>
+            <rect x="960" y="492.57930117891465" height="29.24706153328964" width="5" fill="black"><title>01/01/2011: 236855</title></rect>
+            <rect x="960" y="526.8263627122043" height="31.281902794850907" width="5" fill="black"><title>01/01/2014: 253334</title></rect>
+            <rect x="960" y="563.1082655070552" height="31.98401502333786" width="5" fill="black"><title>01/01/2015: 259020</title></rect>
+            <rect x="960" y="600.092280530393" height="32.27938126507911" width="5" fill="black"><title>01/01/2012: 261412</title></rect>
+            <rect x="0" y="254.93331907003284" height="32.543383365765976" width="5" fill="black"><title>Peru: 263550</title></rect>
+            <rect x="960" y="637.3716617954722" height="32.62833820452772" width="5" fill="black"><title>01/01/2013: 264238</title></rect>
+            <rect x="0" y="292.4767024357988" height="38.67531990365467" width="5" fill="black"><title>China: 313209</title></rect>
+            <rect x="0" y="336.1520223394535" height="61.57225420124763" width="5" fill="black"><title>Egypt: 498638</title></rect>
+            <rect x="0" y="402.7242765407011" height="69.52960844468032" width="5" fill="black"><title>Philippines: 563080</title></rect>
+            <rect x="0" y="477.25388498538143" height="140.24611501461857" width="5" fill="black"><title>Others: 1135772</title></rect>
+        </g>
+        <g fill="none" stroke-opacity="1">
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.5223923738215C482.5,119.5223923738215,482.5,0.33796714199241673,960,0.33796714199241673" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1979: 34</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.52634376167089C482.5,119.52634376167089,482.5,7.989965793278912,960,7.989965793278912" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1980: 30</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.5299247069094C482.5,119.5299247069094,482.5,15.765692276599168,960,15.765692276599168" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1981: 28</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.53332043084247C482.5,119.53332043084247,482.5,23.79486324619616,960,23.79486324619616" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1982: 27</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.54455719003914C482.5,119.54455719003914,482.5,40.52457067717413,960,40.52457067717413" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1983: 31</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.54819987571278C482.5,119.54819987571278,482.5,48.858492434654686,960,48.858492434654686" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1984: 28</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.55153385921069C482.5,119.55153385921069,482.5,57.215319893574616,960,57.215319893574616" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1985: 26</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.55455914053289C482.5,119.55455914053289,482.5,65.617403091457,960,65.617403091457" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1986: 23</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.55733746011447C482.5,119.55733746011447,482.5,74.12728508910533,960,74.12728508910533" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1987: 22</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.55993055839063C482.5,119.55993055839063,482.5,83.05607593922323,960,83.05607593922323" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1988: 20</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.56233843536135C482.5,119.56233843536135,482.5,92.29807601683977,960,92.29807601683977" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1989: 19</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.56468457189692C482.5,119.56468457189692,482.5,101.72227211857388,960,101.72227211857388" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1990: 19</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.5388153295705C482.5,119.5388153295705,482.5,32.11248552879801,960,32.11248552879801" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1991: 62</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.5658576401647C482.5,119.5658576401647,482.5,111.71268975103737,960,111.71268975103737" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1992: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.58079882547017C482.5,119.58079882547017,482.5,122.1768417423806,960,122.1768417423806" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1993: 242</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.61660827785519C482.5,119.61660827785519,482.5,134.270200336372,960,134.270200336372" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1994: 338</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.66451885552895C482.5,119.66451885552895,482.5,146.8169806860799,960,146.8169806860799" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1995: 438</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.724345337186C482.5,119.724345337186,482.5,159.77353230385572,960,159.77353230385572" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1996: 531</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.80880625246651C482.5,119.80880625246651,482.5,173.26432390695493,960,173.26432390695493" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1997: 837</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,119.9448821715296C482.5,119.9448821715296,482.5,188.26442218764757,960,188.26442218764757" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1998: 1367</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,120.12658427216601C482.5,120.12658427216601,482.5,205.44537785902318,960,205.44537785902318" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/1999: 1576</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,120.71330362736401C482.5,120.71330362736401,482.5,241.87034584219754,960,241.87034584219754" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2000: 2205</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,121.03447737099657C482.5,121.03447737099657,482.5,261.5664216201396,960,261.5664216201396" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2001: 2997</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,121.41955246500582C482.5,121.41955246500582,482.5,282.9546175041441,960,282.9546175041441" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2002: 3240</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,120.40052658291141C482.5,120.40052658291141,482.5,223.1839731406427,960,223.1839731406427" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2003: 2861</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,121.84630235273903C482.5,121.84630235273903,482.5,304.4749996597976,960,304.4749996597976" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2004: 3672</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,122.33683010997866C482.5,122.33683010997866,482.5,327.3943583354375,960,327.3943583354375" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2005: 4273</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,122.876935436641C482.5,122.876935436641,482.5,352.6181787529239,960,352.6181787529239" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2006: 4475</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,123.43284631470087C482.5,123.43284631470087,482.5,378.7353832669812,960,378.7353832669812" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2007: 4529</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,123.99696867063524C482.5,123.99696867063524,482.5,405.52623766892293,960,405.52623766892293" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2008: 4608</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,124.5909116567454C482.5,124.5909116567454,482.5,433.11780377428096,960,433.11780377428096" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2009: 5012</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,125.22652943657951C482.5,125.22652943657951,482.5,462.92887678272353,960,462.92887678272353" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2010: 5283</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,125.88863386309151C482.5,125.88863386309151,482.5,495.0148996050124,960,495.0148996050124" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2011: 5441</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,127.89927287407528C482.5,127.89927287407528,482.5,602.7582942604578,960,602.7582942604578" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2012: 5805</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,128.6124366404535C482.5,128.6124366404535,482.5,640.0294640476625,960,640.0294640476625" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2013: 5746</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,126.5556157839801C482.5,126.5556157839801,482.5,529.2923991728294,960,529.2923991728294" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2014: 5362</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,127.21376882264272C482.5,127.21376882264272,482.5,565.6476496046344,960,565.6476496046344" stroke="#1f77b4" stroke-width="1" />
+                <title>Albania → 01/01/2015: 5298</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.48695134803313C482.5,292.48695134803313,482.5,0.475277869758426,960,0.475277869758426" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1979: 166</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.50658480640976C482.5,292.50658480640976,482.5,8.133327083689286,960,8.133327083689286" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1980: 152</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.5279469969705C482.5,292.5279469969705,482.5,15.923994752315016,960,15.923994752315016" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1981: 194</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.5570884823597C482.5,292.5570884823597,482.5,23.96965041809615,960,23.96965041809615" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1982: 278</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.72378765725546C482.5,292.72378765725546,482.5,40.85123931953472,960,40.85123931953472" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1983: 456</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.78281151325564C482.5,292.78281151325564,482.5,49.19670653838769,960,49.19670653838769" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1984: 500</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.84646590189175C482.5,292.84646590189175,482.5,57.56236287953358,960,57.56236287953358" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1985: 531</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.91505952533964C482.5,292.91505952533964,482.5,65.97148448702269,960,65.97148448702269" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1986: 580</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,293.0168695028964C482.5,293.0168695028964,482.5,74.58533737745788,960,74.58533737745788" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1987: 1069</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,293.1759746042691C482.5,293.1759746042691,482.5,83.58173400406129,960,83.58173400406129" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1988: 1508</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,293.36749343409383C482.5,293.36749343409383,482.5,92.85429559707538,960,92.85429559707538" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1989: 1594</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,293.58272059101483C482.5,293.58272059101483,482.5,102.43568284669269,960,102.43568284669269" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1990: 1892</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,292.6349431710795C482.5,292.6349431710795,482.5,32.61042213825523,960,32.61042213825523" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1991: 983</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,293.8719745296766C482.5,293.8719745296766,482.5,112.7858002543202,960,112.7858002543202" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1992: 2793</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,294.2345143648573C482.5,294.2345143648573,482.5,123.47431698698612,960,123.47431698698612" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1993: 3079</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,294.62736875369507C482.5,294.62736875369507,482.5,135.7028253935134,960,135.7028253935134" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1994: 3284</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,295.0509081388007C482.5,295.0509081388007,482.5,148.40321594586598,960,148.40321594586598" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1995: 3576</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,295.5111213423833C482.5,295.5111213423833,482.5,161.53986441296445,960,161.53986441296445" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1996: 3878</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,296.0615990621503C482.5,296.0615990621503,482.5,175.5790345610356,960,175.5790345610356" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1997: 5038</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,296.8005703304198C482.5,296.8005703304198,482.5,191.39972496526156,960,191.39972496526156" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1998: 6931</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,297.6925343969826C482.5,297.6925343969826,482.5,208.91556075687222,960,208.91556075687222" stroke="#ff7f0e" stroke-width="1" />
+                <title>China → 01/01/1999: 7516</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,299.84066935703777C482.5,299.84066935703777,482.5,245.9805300907761,960,245.9805300907761" stroke="#ff7f0e" stroke-width="1.071196549793283" />
+                <title>China → 01/01/2000: 8675</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,301.0119471522037C482.5,301.0119471522037,482.5,266.35223145052726,960,266.35223145052726" stroke="#ff7f0e" stroke-width="1.2713590405385176" />
+                <title>China → 01/01/2001: 10296</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,302.32349921602264C482.5,302.32349921602264,482.5,287.9505917757707,960,287.9505917757707" stroke="#ff7f0e" stroke-width="1.351745087099374" />
+                <title>China → 01/01/2002: 10947</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,298.7308232948427C482.5,298.7308232948427,482.5,227.64064471126395,960,227.64064471126395" stroke="#ff7f0e" stroke-width="1.1484955745968097" />
+                <title>China → 01/01/2003: 9301</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,303.7111772363773C482.5,303.7111772363773,482.5,310.8975484259213,960,310.8975484259213" stroke="#ff7f0e" stroke-width="1.423610953610001" />
+                <title>China → 01/01/2004: 11529</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,305.23239981795405C482.5,305.23239981795405,482.5,334.7248619408269,960,334.7248619408269" stroke="#ff7f0e" stroke-width="1.6188342095435089" />
+                <title>China → 01/01/2005: 13110</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,306.90859089174876C482.5,306.90859089174876,482.5,360.28424162333494,960,360.28424162333494" stroke="#ff7f0e" stroke-width="1.7335479380458674" />
+                <title>China → 01/01/2006: 14039</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,308.68517191309184C482.5,308.68517191309184,482.5,386.7065056274516,960,386.7065056274516" stroke="#ff7f0e" stroke-width="1.8196141046402095" />
+                <title>China → 01/01/2007: 14736</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,310.5370762653137C482.5,310.5370762653137,482.5,413.8134710573439,960,413.8134710573439" stroke="#ff7f0e" stroke-width="1.8841945998035394" />
+                <title>China → 01/01/2008: 15259</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,312.5411707901719C482.5,312.5411707901719,482.5,442.2642170582017,960,442.2642170582017" stroke="#ff7f0e" stroke-width="2.123994449912883" />
+                <title>China → 01/01/2009: 17201</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,314.7729022994156C482.5,314.7729022994156,482.5,472.8454402546629,960,472.8454402546629" stroke="#ff7f0e" stroke-width="2.339468568574471" />
+                <title>China → 01/01/2010: 18946</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,317.23004813737947C482.5,317.23004813737947,482.5,505.6772875335225,960,505.6772875335225" stroke="#ff7f0e" stroke-width="2.5748231073532604" />
+                <title>China → 01/01/2011: 20852</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,326.5776117590079C482.5,326.5776117590079,482.5,614.4184693613719,960,614.4184693613719" stroke="#ff7f0e" stroke-width="2.959466018316497" />
+                <title>China → 01/01/2012: 23967</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,329.60468355380993C482.5,329.60468355380993,482.5,651.7542196437399,960,651.7542196437399" stroke="#ff7f0e" stroke-width="3.094677571287522" />
+                <title>China → 01/01/2013: 25062</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,320.1182656935368C482.5,320.1182656935368,482.5,540.5285409651567,960,540.5285409651567" stroke="#ff7f0e" stroke-width="3.2016120049614107" />
+                <title>China → 01/01/2014: 25928</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,323.4084752229336C482.5,323.4084752229336,482.5,577.0386981487445,960,577.0386981487445" stroke="#ff7f0e" stroke-width="3.3788070538321153" />
+                <title>China → 01/01/2015: 27363</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.66459496006536C482.5,197.66459496006536,482.5,0.46107756967471103,960,0.46107756967471103" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1979: 8</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.6655828070277C482.5,197.6655828070277,482.5,8.11826241751352,960,8.11826241751352" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1980: 8</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.6666323944252C482.5,197.6666323944252,482.5,15.903435187411201,960,15.903435187411201" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1981: 9</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.66799068399843C482.5,197.66799068399843,482.5,23.938594979217417,960,23.938594979217417" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1982: 13</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.6784248175382C482.5,197.6784248175382,482.5,40.80048868184423,960,40.80048868184423" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1983: 14</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.68027703059258C482.5,197.68027703059258,482.5,49.137929644128135,960,49.137929644128135" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1984: 16</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.6823144649524C482.5,197.6823144649524,482.5,57.497041499148494,960,57.497041499148494" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1985: 17</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.68447538018253C482.5,197.68447538018253,482.5,65.89813685006852,960,65.89813685006852" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1986: 18</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.68700673802354C482.5,197.68700673802354,482.5,74.46444960544086,960,74.46444960544086" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1987: 23</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.6905259428269C482.5,197.6905259428269,482.5,83.41997406397722,960,83.41997406397722" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1988: 34</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.69472429241685C482.5,197.69472429241685,482.5,92.67586573950173,960,92.67586573950173" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1989: 34</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.7005278933206C482.5,197.7005278933206,482.5,102.19217857047454,960,102.19217857047454" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1990: 60</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.67317688055073C482.5,197.67317688055073,482.5,32.3885270143384,960,32.3885270143384" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1991: 71</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.70423231942942C482.5,197.70423231942942,482.5,112.37380633058702,960,112.37380633058702" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1992: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.71022114163864C482.5,197.71022114163864,482.5,122.96384706919414,960,122.96384706919414" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1993: 97</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.72287793084368C482.5,197.72287793084368,482.5,135.11678518310197,960,135.11678518310197" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1994: 108</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.73874522267636C482.5,197.73874522267636,482.5,147.71400746832464,960,147.71400746832464" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1995: 149</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.76047785584797C482.5,197.76047785584797,482.5,160.73050904862782,960,160.73050904862782" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1996: 203</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.80023869608237C482.5,197.80023869608237,482.5,174.39096336750984,960,174.39096336750984" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1997: 441</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.87383329477709C482.5,197.87383329477709,482.5,189.63580073312357,960,189.63580073312357" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1998: 751</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,197.98817658066855C482.5,197.98817658066855,482.5,206.92029511424,960,206.92029511424" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/1999: 1101</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,198.69405497569952C482.5,198.69405497569952,482.5,243.58209940663667,960,243.58209940663667" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/2000: 2006</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,198.98546982959138C482.5,198.98546982959138,482.5,263.5418068426546,960,263.5418068426546" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/2001: 2714</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,199.347947924337C482.5,199.347947924337,482.5,284.95087099373865,960,284.95087099373865" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/2002: 3157</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,198.3131782312802C482.5,198.3131782312802,482.5,224.8103396832741,960,224.8103396832741" stroke="#2ca02c" stroke-width="1" />
+                <title>Ecuador → 01/01/2003: 4163</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,200.19224837496657C482.5,200.19224837496657,482.5,306.9013987610585,960,306.9013987610585" stroke="#2ca02c" stroke-width="1.2987717937436023" />
+                <title>Ecuador → 01/01/2004: 10518</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,201.6044990885096C482.5,201.6044990885096,482.5,330.23151655172865,960,330.23151655172865" stroke="#2ca02c" stroke-width="1.5257296333424557" />
+                <title>Ecuador → 01/01/2005: 12356</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,203.15023262283955C482.5,203.15023262283955,482.5,355.6066010353241,960,355.6066010353241" stroke="#2ca02c" stroke-width="1.565737435317444" />
+                <title>Ecuador → 01/01/2006: 12680</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,204.69547223368832C482.5,204.69547223368832,482.5,381.9880546118089,960,381.9880546118089" stroke="#2ca02c" stroke-width="1.5247417863801103" />
+                <title>Ecuador → 01/01/2007: 12348</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,206.2071867882525C482.5,206.2071867882525,482.5,409.0115469733829,960,409.0115469733829" stroke="#2ca02c" stroke-width="1.4986873227482507" />
+                <title>Ecuador → 01/01/2008: 12137</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,207.75199421605527C482.5,207.75199421605527,482.5,436.95744143604713,960,436.95744143604713" stroke="#2ca02c" stroke-width="1.5909275328572514" />
+                <title>Ecuador → 01/01/2009: 12884</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,209.38354695523896C482.5,209.38354695523896,482.5,467.01022824808865,960,467.01022824808865" stroke="#2ca02c" stroke-width="1.67217794551016" />
+                <title>Ecuador → 01/01/2010: 13542</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,211.09832580100027C482.5,211.09832580100027,482.5,499.2922152115327,960,499.2922152115327" stroke="#2ca02c" stroke-width="1.7573797460124498" />
+                <title>Ecuador → 01/01/2011: 14232</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,216.22926466385735C482.5,216.22926466385735,482.5,607.4164866113974,960,607.4164866113974" stroke="#2ca02c" stroke-width="1.8409762952009285" />
+                <title>Ecuador → 01/01/2012: 14909</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,218.06030074899968C482.5,218.06030074899968,482.5,644.6487599244598,960,644.6487599244598" stroke="#2ca02c" stroke-width="1.8210958750837276" />
+                <title>Ecuador → 01/01/2013: 14748</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,212.81199331892893C482.5,212.81199331892893,482.5,533.6031163547641,960,533.6031163547641" stroke="#2ca02c" stroke-width="1.6699552898448828" />
+                <title>Ecuador → 01/01/2014: 13524</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,214.47787374005415C482.5,214.47787374005415,482.5,570.0380119479081,960,570.0380119479081" stroke="#2ca02c" stroke-width="1.6618055524055333" />
+                <title>Ecuador → 01/01/2015: 13458</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,336.195611086667C482.5,336.195611086667,482.5,0.5291155292062498,960,0.5291155292062498" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1979: 706</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,336.2930992337634C482.5,336.2930992337634,482.5,8.19661102971454,960,8.19661102971454" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1980: 873</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,336.4233715519227C482.5,336.4233715519227,482.5,16.01234531500978,960,16.01234531500978" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1981: 1237</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,336.60211011167206C482.5,336.60211011167206,482.5,24.089179900539943,960,24.089179900539943" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1982: 1658</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,337.2026593243429C482.5,337.2026593243429,482.5,41.0152836557192,960,41.0152836557192" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1983: 2201</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,337.49277762909674C482.5,337.49277762909674,482.5,49.381804362957155,960,49.381804362957155" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1984: 2498</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,337.8129017853318C482.5,337.8129017853318,482.5,57.7610435998353,960,57.7610435998353" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1985: 2687</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,338.1515480721108C482.5,338.1515480721108,482.5,66.18004367694785,960,66.18004367694785" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1986: 2798</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,338.51982976776026C482.5,338.51982976776026,482.5,74.84686986073882,960,74.84686986073882" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1987: 3167</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,338.93602204108333C482.5,338.93602204108333,482.5,83.89549889547624,960,83.89549889547624" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1988: 3574</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,339.39308648247356C482.5,339.39308648247356,482.5,93.18911397687532,960,93.18911397687532" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1989: 3829</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,339.9095452224747C482.5,339.9095452224747,482.5,102.83255036381495,960,102.83255036381495" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1990: 4536</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,336.88562218986516C482.5,336.88562218986516,482.5,32.85225942272441,960,32.85225942272441" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1991: 2934</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,340.5822690038319C482.5,340.5822690038319,482.5,113.3509104572169,960,113.3509104572169" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1992: 6360</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,341.39687230515597C482.5,341.39687230515597,482.5,124.08634992059424,960,124.08634992059424" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1993: 6834</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,342.2710551263965C482.5,342.2710551263965,482.5,136.35782966998354,960,136.35782966998354" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1994: 7325</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,343.18469008569576C482.5,343.18469008569576,482.5,149.08538601380062,960,149.08538601380062" stroke="#d62728" stroke-width="1" />
+                <title>Egypt → 01/01/1995: 7473</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,344.14950786573144C482.5,344.14950786573144,482.5,162.28272532864816,960,162.28272532864816" stroke="#d62728" stroke-width="1.0068630163705394" />
+                <title>Egypt → 01/01/1996: 8154</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,345.2357073412653C482.5,345.2357073412653,482.5,176.47285084065277,960,176.47285084065277" stroke="#d62728" stroke-width="1.1655359346972678" />
+                <title>Egypt → 01/01/1997: 9439</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,346.50225062786245C482.5,346.50225062786245,482.5,192.511423240511,960,192.511423240511" stroke="#d62728" stroke-width="1.3675506384969" />
+                <title>Egypt → 01/01/1998: 11075</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,347.91715618011676C482.5,347.91715618011676,482.5,210.11073210043986,960,210.11073210043986" stroke="#d62728" stroke-width="1.4622604660117644" />
+                <title>Egypt → 01/01/1999: 11842</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,351.0777107957056C482.5,351.0777107957056,482.5,247.33783181703868,960,247.33783181703868" stroke="#d62728" stroke-width="1.6434069027318503" />
+                <title>Egypt → 01/01/2000: 13309</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,352.8613919670905C482.5,352.8613919670905,482.5,267.9498886908155,960,267.9498886908155" stroke="#d62728" stroke-width="1.9239554400379413" />
+                <title>Egypt → 01/01/2001: 15581</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,354.79084230585653C482.5,354.79084230585653,482.5,289.5939369380674,960,289.5939369380674" stroke="#d62728" stroke-width="1.9349452374940337" />
+                <title>Egypt → 01/01/2002: 15670</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,349.4521468787312C482.5,349.4521468787312,482.5,229.0187529641709,960,229.0187529641709" stroke="#d62728" stroke-width="1.6077209312171232" />
+                <title>Egypt → 01/01/2003: 13020</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,356.9023034474347C482.5,356.9023034474347,482.5,312.75334242555743,960,312.75334242555743" stroke="#d62728" stroke-width="2.2879770456622177" />
+                <title>Egypt → 01/01/2004: 18529</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,359.34234718486294C482.5,359.34234718486294,482.5,336.83033426019585,960,336.83033426019585" stroke="#d62728" stroke-width="2.592110429194305" />
+                <title>Egypt → 01/01/2005: 20992</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,362.00515041230005C482.5,362.00515041230005,482.5,362.5177636051979,960,362.5177636051979" stroke="#d62728" stroke-width="2.733496025679989" />
+                <title>Egypt → 01/01/2006: 22137</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,364.7878535647919C482.5,364.7878535647919,482.5,389.0322678194235,960,389.0322678194235" stroke="#d62728" stroke-width="2.8319102793036484" />
+                <title>Egypt → 01/01/2007: 22934</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,367.6558202582211C482.5,367.6558202582211,482.5,416.2075799110231,960,416.2075799110231" stroke="#d62728" stroke-width="2.904023107554862" />
+                <title>Egypt → 01/01/2008: 23518</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,370.7030811753161C482.5,370.7030811753161,482.5,444.9214636464757,960,444.9214636464757" stroke="#d62728" stroke-width="3.1904987266350253" />
+                <title>Egypt → 01/01/2009: 25838</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,374.0667618225373C482.5,374.0667618225373,482.5,475.7836058228538,960,475.7836058228538" stroke="#d62728" stroke-width="3.5368625678073777" />
+                <title>Egypt → 01/01/2010: 28643</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,377.8108252906966C482.5,377.8108252906966,482.5,508.94033127145474,960,508.94033127145474" stroke="#d62728" stroke-width="3.951264368511269" />
+                <title>Egypt → 01/01/2011: 31999</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,390.92566678409946C482.5,390.92566678409946,482.5,618.1190058227528,960,618.1190058227528" stroke="#d62728" stroke-width="4.441606904445463" />
+                <title>Egypt → 01/01/2012: 35970</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,395.43537338851155C482.5,395.43537338851155,482.5,655.5904615815731,960,655.5904615815731" stroke="#d62728" stroke-width="4.577806304378833" />
+                <title>Egypt → 01/01/2013: 37073</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,381.98423174486527C482.5,381.98423174486527,482.5,544.3271212375505,960,544.3271212375505" stroke="#d62728" stroke-width="4.395548539826109" />
+                <title>Egypt → 01/01/2014: 35597</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,386.4434346733275C482.5,386.4434346733275,482.5,580.9895303342098,960,580.9895303342098" stroke="#d62728" stroke-width="4.522857317098371" />
+                <title>Egypt → 01/01/2015: 36628</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.50234613653557C482.5,52.50234613653557,482.5,0.0023461365355703025,960,0.0023461365355703025" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1979: 38</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.507717554393324C482.5,52.507717554393324,482.5,7.64230540296848,960,7.64230540296848" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1980: 49</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.51685513879502C482.5,52.51685513879502,482.5,15.39136001830541,960,15.39136001830541" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1981: 99</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.53247546888711C482.5,52.53247546888711,482.5,23.405713283467225,960,23.405713283467225" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1982: 154</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.60761357846051C482.5,52.60761357846051,482.5,39.895312162160124,960,39.895312162160124" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1983: 203</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.635396774276465C482.5,52.635396774276465,482.5,48.22991306442728,960,48.22991306442728" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1984: 247</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.66781050272843C482.5,52.66781050272843,482.5,56.595322443832586,960,56.595322443832586" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1985: 278</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.703681695548596C482.5,52.703681695548596,482.5,64.9987639312882,960,64.9987639312882" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1986: 303</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.74899917494619C482.5,52.74899917494619,482.5,73.43054427847609,960,73.43054427847609" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1987: 431</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.80610907745678C482.5,52.80610907745678,482.5,82.32161172271942,960,82.32161172271942" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1988: 494</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.867911253038514C482.5,52.867911253038514,482.5,91.53903910714764,960,91.53903910714764" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1989: 507</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.93823360867048C482.5,52.93823360867048,482.5,100.92971015259717,960,100.92971015259717" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1990: 632</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.56853188301272C482.5,52.56853188301272,482.5,31.63634329294753,960,31.63634329294753" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1991: 430</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,53.03028859747405C482.5,53.03028859747405,482.5,110.84949672725294,960,110.84949672725294" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1992: 859</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,53.1414213807379C482.5,53.1414213807379,482.5,121.26993649051239,960,121.26993649051239" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1993: 941</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,53.26342048058756C482.5,53.26342048058756,482.5,133.33069613474638,960,133.33069613474638" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1994: 1035</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,53.396903301374486C482.5,53.396903301374486,482.5,145.85290379126596,960,145.85290379126596" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1995: 1127</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,53.53828889786016C482.5,53.53828889786016,482.5,158.8038370294434,960,158.8038370294434" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1996: 1163</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,53.68899730005298C482.5,53.68899730005298,482.5,172.22788722214915,960,172.22788722214915" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1997: 1278</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,53.86057396932535C482.5,53.86057396932535,482.5,187.11765534523488,960,187.11765534523488" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1998: 1501</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,54.050055364790225C482.5,54.050055364790225,482.5,204.26650599033422,960,204.26650599033422" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/1999: 1568</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,54.476743512088284C482.5,54.476743512088284,482.5,240.62504126529086,960,240.62504126529086" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2000: 1751</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,54.70376309212229C482.5,54.70376309212229,482.5,260.18386805590205,960,260.18386805590205" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2001: 1926</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,54.94201943135296C482.5,54.94201943135296,482.5,281.58157196691917,960,281.58157196691917" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2002: 1933</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,54.25775018862334C482.5,54.25775018862334,482.5,222.25619962169495,960,222.25619962169495" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2003: 1796</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,55.20169970157951C482.5,55.20169970157951,482.5,303.24988420518383,960,303.24988420518383" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2004: 2273</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,55.496201577228724C482.5,55.496201577228724,482.5,325.95420094520824,960,325.95420094520824" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2005: 2497</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,55.808175996024424C482.5,55.808175996024424,482.5,351.072506959029,960,351.072506959029" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2006: 2556</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,56.123607879188334C482.5,56.123607879188334,482.5,377.15433420374745,960,377.15433420374745" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2007: 2553</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,56.43941020496313C482.5,56.43941020496313,482.5,403.8919683505929,960,403.8919683505929" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2008: 2562</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,56.76669625167519C482.5,56.76669625167519,482.5,431.2993627379085,960,431.2993627379085" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2009: 2739</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,57.12923608685595C482.5,57.12923608685595,482.5,460.9423165414469,960,460.9423165414469" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2010: 3133</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,57.55234328891551C482.5,57.55234328891551,482.5,492.8089755976599,960,492.8089755976599" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2011: 3720</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,59.214272322191334C482.5,59.214272322191334,482.5,600.3557887075987,960,600.3557887075987" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2012: 4268</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,59.75579767886205C482.5,59.75579767886205,482.5,637.6496789749373,960,637.6496789749373" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2013: 4503</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,58.071827310238895C482.5,58.071827310238895,482.5,527.1161723147824,960,527.1161723147824" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2014: 4694</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,58.65620052890134C482.5,58.65620052890134,482.5,563.4028291231396,960,563.4028291231396" stroke="#9467bd" stroke-width="1" />
+                <title>El Salvador → 01/01/2015: 4771</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.00708150191048C482.5,134.00708150191048,482.5,0.3799506378920958,960,0.3799506378920958" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1979: 646</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.08789973151735C482.5,134.08789973151735,482.5,8.032751914835496,960,8.032751914835496" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1980: 663</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.1710640976598C482.5,134.1710640976598,482.5,15.809651466423537,960,15.809651466423537" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1981: 684</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.2562658981621C482.5,134.2562658981621,482.5,23.839501580807145,960,23.839501580807145" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1982: 696</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.57848922919214C482.5,134.57848922919214,482.5,40.63051726388568,960,40.63051726388568" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1983: 1685</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.78581361041438C482.5,134.78581361041438,482.5,48.96351291483903,960,48.96351291483903" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1984: 1673</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.992026663804C482.5,134.992026663804,482.5,57.31984645027779,960,57.31984645027779" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1985: 1667</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,135.19842493849904C482.5,135.19842493849904,482.5,65.72230009077104,960,65.72230009077104" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1986: 1676</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,135.43143334074225C482.5,135.43143334074225,482.5,74.2581748116161,960,74.2581748116161" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1987: 2098</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,135.69648502882654C482.5,135.69648502882654,482.5,83.19283100307293,960,83.19283100307293" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1988: 2195</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,135.9730204378481C482.5,135.9730204378481,482.5,92.44026423898235,960,92.44026423898235" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1989: 2284</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,136.25931083562284C482.5,136.25931083562284,482.5,101.86872043074158,960,101.86872043074158" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1990: 2353</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,134.38684691849713C482.5,134.38684691849713,482.5,32.2039231132501,960,32.2039231132501" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1991: 1419</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,136.56282681480346C482.5,136.56282681480346,482.5,111.87093048631807,960,111.87093048631807" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1992: 2563</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,136.8893102358586C482.5,136.8893102358586,482.5,122.36002561346052,960,122.36002561346052" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1993: 2725</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,137.23777325182593C482.5,137.23777325182593,482.5,134.47128893364444,960,134.47128893364444" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1994: 2919</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,137.6116115866385C482.5,137.6116115866385,482.5,147.03764100129382,960,147.03764100129382" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1995: 3136</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,138.00150243458918C482.5,138.00150243458918,482.5,160.00258931824956,960,160.00258931824956" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1996: 3179</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,138.40460573566125C482.5,138.40460573566125,482.5,173.52283110891366,960,173.52283110891366" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1997: 3350</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,138.84456807651583C482.5,138.84456807651583,482.5,188.58195324560648,960,188.58195324560648" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1998: 3776</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,139.31879635887677C482.5,139.31879635887677,482.5,205.78377718406165,960,205.78377718406165" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/1999: 3905</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,140.12741083799162C482.5,140.12741083799162,482.5,242.26307675016497,960,242.26307675016497" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2000: 4156</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,140.66517002811838C482.5,140.66517002811838,482.5,262.03262364593144,960,262.03262364593144" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2001: 4554</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,141.22583491968456C482.5,141.22583491968456,482.5,283.4341554639276,960,283.4341554639276" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2002: 4527</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,139.7153551738233C482.5,139.7153551738233,482.5,223.51607494129618,960,223.51607494129618" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2003: 2518</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,141.66740251185294C482.5,141.66740251185294,482.5,304.86377917991564,960,304.86377917991564" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2004: 2625</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,142.01833514522616C482.5,142.01833514522616,482.5,327.8470392059323,960,327.8470392059323" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2005: 3059</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,142.406188558817C482.5,142.406188558817,482.5,353.0934566226823,960,353.0934566226823" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2006: 3223</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,142.8108971112029C482.5,142.8108971112029,482.5,379.2207248276685,960,379.2207248276685" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2007: 3332</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,143.2317816575972C482.5,143.2317816575972,482.5,406.02590301056426,960,406.02590301056426" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2008: 3485</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,143.67927633153965C482.5,143.67927633153965,482.5,433.65957609269225,960,433.65957609269225" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2009: 3763</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,144.15041759214327C482.5,144.15041759214327,482.5,463.49386350475,960,463.49386350475" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2010: 3868</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,144.6381052893662C482.5,144.6381052893662,482.5,495.5997050067208,960,495.5997050067208" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2011: 4031</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,145.8905100163147C482.5,145.8905100163147,482.5,603.3783534506349,960,603.3783534506349" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2012: 4238</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,146.38968143447485C482.5,146.38968143447485,482.5,640.6217400420236,960,640.6217400420236" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2013: 3847</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,145.06757175624583C482.5,145.06757175624583,482.5,529.804042158889,960,529.804042158889" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2014: 2925</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,145.43850829060653C482.5,145.43850829060653,482.5,566.1650961915979,960,566.1650961915979" stroke="#8c564b" stroke-width="1" />
+                <title>France → 01/01/2015: 3083</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,91.05730999192087C482.5,91.05730999192087,482.5,0.14583090781623828,960,0.14583090781623828" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1979: 1292</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,91.21635335285848C482.5,91.21635335285848,482.5,7.793507728642472,960,7.793507728642472" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1980: 1284</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,91.37471756900946C482.5,91.37471756900946,482.5,15.561887100180284,960,15.561887100180284" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1981: 1281</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,91.53184697645753C482.5,91.53184697645753,482.5,23.58846497150112,960,23.58846497150112" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1982: 1264</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,91.90550008996468C482.5,91.90550008996468,482.5,40.15986992676324,960,40.15986992676324" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1983: 2232</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,92.17765192809082C482.5,92.17765192809082,482.5,48.49891614036097,960,48.49891614036097" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1984: 2176</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,92.4414688074722C482.5,92.4414688074722,482.5,56.86099153626835,960,56.86099153626835" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1985: 2097</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,92.69880294116317C482.5,92.69880294116317,482.5,65.26375387893734,960,65.26375387893734" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1986: 2071</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,92.95947105835207C482.5,92.95947105835207,482.5,73.72986190806675,960,73.72986190806675" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1987: 2151</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,93.22588103600958C482.5,93.22588103600958,482.5,82.6441437559252,960,82.6441437559252" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1988: 2164</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,93.49593369934077C482.5,93.49593369934077,482.5,91.87842627914843,960,91.87842627914843" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1989: 2210</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,93.76993775052131C482.5,93.76993775052131,482.5,101.29224998777791,960,101.29224998777791" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1990: 2228</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,91.68879116260017C482.5,91.68879116260017,482.5,31.896764448395835,960,31.896764448395835" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1991: 1278</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,94.04511486996964C482.5,94.04511486996964,482.5,111.25747752270158,960,111.25747752270158" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1992: 2229</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,94.31918066158535C482.5,94.31918066158535,482.5,121.6976124847728,960,121.6976124847728" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1993: 2210</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,94.59398733842279C482.5,94.59398733842279,482.5,133.77670903824534,960,133.77670903824534" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1994: 2241</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,94.87181929658244C482.5,94.87181929658244,482.5,146.31583357399504,960,146.31583357399504" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1995: 2259</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,95.15051562083414C482.5,95.15051562083414,482.5,159.27182952785452,960,159.27182952785452" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1996: 2255</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,95.43371899685154C482.5,95.43371899685154,482.5,172.72773778509594,960,172.72773778509594" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1997: 2332</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,95.73408621383969C482.5,95.73408621383969,482.5,187.66097117452483,960,187.66097117452483" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1998: 2533</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,96.04630759437599C482.5,96.04630759437599,482.5,204.8209350979506,960,204.8209350979506" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/1999: 2524</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,96.55869146565752C482.5,96.55869146565752,482.5,241.2013264869491,960,241.2013264869491" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2000: 2553</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,96.88128523929842C482.5,96.88128523929842,482.5,260.81633707354376,960,260.81633707354376" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2001: 2672</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,97.20239724249582C482.5,97.20239724249582,482.5,282.21651060196666,960,282.21651060196666" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2002: 2529</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,96.30160429370711C482.5,96.30160429370711,482.5,222.7226486092274,960,222.7226486092274" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2003: 1611</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,97.46362102360104C482.5,97.46362102360104,482.5,303.95020596105155,960,303.95020596105155" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2004: 1702</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,97.68174998097393C482.5,97.68174998097393,482.5,326.8073302780638,960,326.8073302780638" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2005: 1831</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,97.9122887658113C482.5,97.9122887658113,482.5,352.00830673454584,960,352.00830673454584" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2006: 1903</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,98.14906333459845C482.5,98.14906333459845,482.5,378.116558885507,960,378.116558885507" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2007: 1932</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,98.38904840601325C482.5,98.38904840601325,482.5,404.8975348178253,960,404.8975348178253" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2008: 1955</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,98.63582492529414C482.5,98.63582492529414,482.5,432.4435982224802,960,432.4435982224802" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2009: 2042</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,98.88889896896C482.5,98.88889896896,482.5,462.23367948297295,960,462.23367948297295" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2010: 2057</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,99.1461096217807C482.5,99.1461096217807,482.5,494.29488265033285,960,494.29488265033285" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2011: 2109</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,99.79259371820059C482.5,99.79259371820059,482.5,602.0052461729749,960,602.0052461729749" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2012: 2120</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,100.0431981444606C482.5,100.0431981444606,482.5,639.3138306638782,960,639.3138306638782" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2013: 1939</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,99.37146221006573C482.5,99.37146221006573,482.5,528.6822184522756,960,528.6822184522756" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2014: 1541</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,99.56415410815823C482.5,99.56415410815823,482.5,565.0312331001307,960,565.0312331001307" stroke="#e377c2" stroke-width="1" />
+                <title>Germany → 01/01/2015: 1580</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.06449985459498C482.5,65.06449985459498,482.5,0.0353772693389943,960,0.0353772693389943" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1979: 497</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.12963601367463C482.5,65.12963601367463,482.5,7.6797818471024595,960,7.6797818471024595" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1980: 558</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.20674981717272C482.5,65.20674981717272,482.5,15.440134962071214,960,15.440134962071214" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1981: 691</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.29701433335704C482.5,65.29701433335704,482.5,23.462823185977815,960,23.462823185977815" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1982: 771</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.55669460358358C482.5,65.55669460358358,482.5,39.964955373005466,960,39.964955373005466" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1983: 925</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.67350750688092C482.5,65.67350750688092,482.5,48.30486595269524,960,48.30486595269524" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1984: 967</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.79272828714898C482.5,65.79272828714898,482.5,56.67200406428465,960,56.67200406428465" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1985: 964</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.91145514393587C482.5,65.91145514393587,482.5,65.07668036044319,960,65.07668036044319" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1986: 959</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,66.04061613426252C482.5,66.04061613426252,482.5,73.52710631904536,960,73.52710631904536" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1987: 1133</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,66.18978102557668C482.5,66.18978102557668,482.5,82.43132447597492,960,82.43132447597492" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1988: 1283</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,66.3548132087235C482.5,66.3548132087235,482.5,91.6561607126207,960,91.6561607126207" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1989: 1390</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,66.53361350890802C482.5,66.53361350890802,482.5,101.06171120294056,960,101.06171120294056" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1990: 1506</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,65.42210045496402C482.5,65.42210045496402,482.5,31.74037592616953,960,31.74037592616953" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1991: 1255</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,66.73525777009677C482.5,66.73525777009677,482.5,111.01119492690185,960,111.01119492690185" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1992: 1760</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,66.96048687751151C482.5,66.96048687751151,482.5,121.44460018154209,960,121.44460018154209" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1993: 1888</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,67.19892843804763C482.5,67.19892843804763,482.5,133.5164731041025,960,133.5164731041025" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1994: 1974</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,67.44761891081808C482.5,67.44761891081808,482.5,146.04930011546725,960,146.04930011546725" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1995: 2054</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,67.70273038884378C482.5,67.70273038884378,482.5,159.00393777975347,960,159.00393777975347" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1996: 2078</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,67.96827600040925C482.5,67.96827600040925,482.5,172.44404048559736,960,172.44404048559736" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1997: 2223</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,68.24981238467768C482.5,68.24981238467768,482.5,187.3546151353275,960,187.3546151353275" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1998: 2337</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,68.54079505552355C482.5,68.54079505552355,482.5,204.51001026655237,960,204.51001026655237" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/1999: 2376</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,69.02070345791797C482.5,69.02070345791797,482.5,240.88027622418684,960,240.88027622418684" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2000: 2383</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,69.32724471842077C482.5,69.32724471842077,482.5,260.4621939375429,960,260.4621939375429" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2001: 2582</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,69.64730713422068C482.5,69.64730713422068,482.5,281.861564840309,960,281.861564840309" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2002: 2602</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,68.78053316519774C482.5,68.78053316519774,482.5,222.46012827898412,960,222.46012827898412" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2003: 1507</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,69.90624651922548C482.5,69.90624651922548,482.5,303.48851098702545,960,303.48851098702545" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2004: 1592</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,70.11505267089123C482.5,70.11505267089123,482.5,326.21888219068165,960,326.21888219068165" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2005: 1790</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,70.34022003787082C482.5,70.34022003787082,482.5,351.34496749933095,960,351.34496749933095" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2006: 1857</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,70.57335192098434C482.5,70.57335192098434,482.5,377.43043742972293,960,377.43043742972293" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2007: 1919</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,70.81327525196396C482.5,70.81327525196396,482.5,404.1715907813717,960,404.1715907813717" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2008: 1967</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,71.06363271648337C482.5,71.06363271648337,482.5,431.59738381836104,960,431.59738381836104" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2009: 2088</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,71.32436257410741C482.5,71.32436257410741,482.5,461.2675651537991,960,461.2675651537991" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2010: 2135</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,71.59237780307875C482.5,71.59237780307875,482.5,493.17484941633865,960,493.17484941633865" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2011: 2206</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,72.2768322671138C482.5,72.2768322671138,482.5,600.7640164647879,960,600.7640164647879" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2012: 2344</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,72.56386355011028C482.5,72.56386355011028,482.5,638.0700078574151,960,638.0700078574151" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2013: 2305</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,71.8273001588115C482.5,71.8273001588115,482.5,527.5047048731599,960,527.5047048731599" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2014: 1599</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,72.02906790087056C482.5,72.02906790087056,482.5,563.8004375254835,960,563.8004375254835" stroke="#7f7f7f" stroke-width="1" />
+                <title>Japan → 01/01/2015: 1669</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.56106456638312C482.5,174.56106456638312,482.5,0.45342175571653426,960,0.45342175571653426" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1979: 116</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.57582053038317C482.5,174.57582053038317,482.5,8.110174420509317,960,8.110174420509317" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1980: 123</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.5915026009104C482.5,174.5915026009104,482.5,15.89479152649068,960,15.89479152649068" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1981: 131</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.60860470144598C482.5,174.60860470144598,482.5,23.92877825002911,960,23.92877825002911" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1982: 146</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.7036232311366C482.5,174.7036232311366,482.5,40.78770841176889,960,40.78770841176889" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1983: 193</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.72899854998184C482.5,174.72899854998184,482.5,49.123482382303834,960,49.123482382303834" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1984: 218</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.75665826492752C482.5,174.75665826492752,482.5,57.48179161166729,960,57.48179161166729" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1985: 230</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.78499712465978C482.5,174.78499712465978,482.5,65.88288696258732,960,65.88288696258732" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1986: 229</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.82512840750508C482.5,174.82512840750508,482.5,74.43703685223576,960,74.43703685223576" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1987: 421</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.88359659958888C482.5,174.88359659958888,482.5,83.38539942029513,960,83.38539942029513" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1988: 526</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.9503997504175C482.5,174.9503997504175,482.5,92.63943888276525,960,92.63943888276525" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1989: 556</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,175.05850725235916C482.5,175.05850725235916,482.5,102.11469432436557,960,102.11469432436557" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1990: 1195</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,174.65466306606532C482.5,174.65466306606532,482.5,32.34709918235504,960,32.34709918235504" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1991: 600</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,175.30460462685346C482.5,175.30460462685346,482.5,112.2014887760929,960,112.2014887760929" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1992: 2791</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,175.66442788288776C482.5,175.66442788288776,482.5,122.77035254544475,960,122.77035254544475" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1993: 3037</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,176.05135518995144C482.5,176.05135518995144,482.5,134.91069561058268,960,134.91069561058268" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1994: 3230</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,176.45414978884776C482.5,176.45414978884776,482.5,147.50143515011496,960,147.50143515011496" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1995: 3294</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,176.8805292339701C482.5,176.8805292339701,482.5,160.49496928854361,960,160.49496928854361" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1996: 3612</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,177.37525534079967C482.5,177.37525534079967,482.5,174.09201618053004,960,174.09201618053004" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1997: 4401</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,177.97129750170484C482.5,177.97129750170484,482.5,189.26511116050347,960,189.26511116050347" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1998: 5253</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,178.63500717953065C482.5,178.63500717953065,482.5,206.51293172314283,960,206.51293172314283" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/1999: 5497</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,179.89290680520722C482.5,179.89290680520722,482.5,243.0971282885602,960,243.0971282885602" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2000: 5849</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,180.6447200839872C482.5,180.6447200839872,482.5,262.98354982805915,960,262.98354982805915" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2001: 6328</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,181.4026456658467C482.5,181.4026456658467,482.5,284.388724331729,960,284.388724331729" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2002: 5948</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,179.2530906757831C482.5,179.2530906757831,482.5,224.27461792750714,960,224.27461792750714" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2003: 4514</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,182.09765774429184C482.5,182.09765774429184,482.5,305.9242328939934,960,305.9242328939934" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2004: 5309</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,182.80001693451942C482.5,182.80001693451942,482.5,329.094072515023,960,329.094072515023" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2005: 6067</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,183.57282196124925C482.5,183.57282196124925,482.5,354.4255065109699,960,354.4255065109699" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2006: 6450</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,184.38242428732647C482.5,184.38242428732647,482.5,380.8143071992371,960,380.8143071992371" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2007: 6663</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,185.21048700351247C482.5,185.21048700351247,482.5,407.84551711520453,960,407.84551711520453" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2008: 6749</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,186.06799990726344C482.5,186.06799990726344,482.5,435.72115096267186,960,435.72115096267186" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2009: 7140</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,186.97916524915678C482.5,186.97916524915678,482.5,465.7038006403869,960,465.7038006403869" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2010: 7618</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,187.94781093617158C482.5,187.94781093617158,482.5,497.9152182864584,960,497.9152182864584" stroke="#bcbd22" stroke-width="1" />
+                <title>Morocco → 01/01/2011: 8071</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,191.0381049365637C482.5,191.0381049365637,482.5,605.9576218693187,960,605.9576218693187" stroke="#bcbd22" stroke-width="1.0767531889564756" />
+                <title>Morocco → 01/01/2012: 8720</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,192.12029128381306C482.5,192.12029128381306,482.5,643.1944022341468,960,643.1944022341468" stroke="#bcbd22" stroke-width="1.087619505542275" />
+                <title>Morocco → 01/01/2013: 8808</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,188.96072451518648C482.5,188.96072451518648,482.5,532.2535321828948,960,532.2535321828948" stroke="#bcbd22" stroke-width="1.0292130538936037" />
+                <title>Morocco → 01/01/2014: 8335</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,189.98752969210938C482.5,189.98752969210938,482.5,568.6949105217293,960,568.6949105217293" stroke="#bcbd22" stroke-width="1.02439729995217" />
+                <title>Morocco → 01/01/2015: 8296</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,478.28618506103237C482.5,478.28618506103237,482.5,1.606980045995364,960,1.606980045995364" stroke="#17becf" stroke-width="2.064600151301866" />
+                <title>Others → 01/01/1979: 16720</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,480.38431026861883C482.5,480.38431026861883,482.5,9.319422583290368,960,9.319422583290368" stroke="#17becf" stroke-width="2.1316502638710597" />
+                <title>Others → 01/01/1980: 17263</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,482.5961613577453C482.5,482.5961613577453,482.5,17.250179299263703,960,17.250179299263703" stroke="#17becf" stroke-width="2.2920519143818923" />
+                <title>Others → 01/01/1981: 18562</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,484.93877868851223C482.5,484.93877868851223,482.5,25.413203532258496,960,25.413203532258496" stroke="#17becf" stroke-width="2.393182747152002" />
+                <title>Others → 01/01/1982: 19381</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,488.6934615115168C482.5,488.6934615115168,482.5,42.20045304879309,960,42.20045304879309" stroke="#17becf" stroke-width="2.0284202563059663" />
+                <title>Others → 01/01/1983: 16427</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,490.70193960727045C482.5,490.70193960727045,482.5,50.5838906352612,960,50.5838906352612" stroke="#17becf" stroke-width="1.9885359352012713" />
+                <title>Others → 01/01/1984: 16104</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,492.6907225042123C482.5,492.6907225042123,482.5,58.98554165009755,960,58.98554165009755" stroke="#17becf" stroke-width="1.989029858682444" />
+                <title>Others → 01/01/1985: 16108</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,494.6744426854722C482.5,494.6744426854722,482.5,67.4147288990093,960,67.4147288990093" stroke="#17becf" stroke-width="1.978410503837231" />
+                <title>Others → 01/01/1986: 16022</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,496.72718867322584C482.5,496.72718867322584,482.5,76.22757121192194,960,76.22757121192194" stroke="#17becf" stroke-width="2.127081471670212" />
+                <title>Others → 01/01/1987: 17226</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,498.90520600389203C482.5,498.90520600389203,482.5,85.39326011169729,960,85.39326011169729" stroke="#17becf" stroke-width="2.2289531896620804" />
+                <title>Others → 01/01/1988: 18051</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,501.15650923107717C482.5,501.15650923107717,482.5,94.75386356523042,960,94.75386356523042" stroke="#17becf" stroke-width="2.2736532647082095" />
+                <title>Others → 01/01/1989: 18413</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,503.5064736736266C482.5,503.5064736736266,482.5,104.58332388326671,960,104.58332388326671" stroke="#17becf" stroke-width="2.426275620390572" />
+                <title>Others → 01/01/1990: 19649</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,486.90731072272604C482.5,486.90731072272604,482.5,34.11083819318759,960,34.11083819318759" stroke="#17becf" stroke-width="1.5438813212755522" />
+                <title>Others → 01/01/1991: 12503</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,505.6744273133639C482.5,505.6744273133639,482.5,115.25702291149747,960,115.25702291149747" stroke="#17becf" stroke-width="1.909631659083933" />
+                <title>Others → 01/01/1992: 15465</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,508.1758410433278C482.5,508.1758410433278,482.5,126.72019688394764,960,126.72019688394764" stroke="#17becf" stroke-width="3.093195800844004" />
+                <title>Others → 01/01/1993: 25050</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,511.34436017505067C482.5,511.34436017505067,482.5,139.1614010895549,960,139.1614010895549" stroke="#17becf" stroke-width="3.2438424626016764" />
+                <title>Others → 01/01/1994: 26270</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,514.6572901845814C482.5,514.6572901845814,482.5,152.04102412513802,960,152.04102412513802" stroke="#17becf" stroke-width="3.3820175564597377" />
+                <title>Others → 01/01/1995: 27389</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,518.0635717320537C482.5,518.0635717320537,482.5,165.4337101767894,960,165.4337101767894" stroke="#17becf" stroke-width="3.4305455384849552" />
+                <title>Others → 01/01/1996: 27782</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,521.6019778107398C482.5,521.6019778107398,482.5,180.2018496426363,960,180.2018496426363" stroke="#17becf" stroke-width="3.6462666188871298" />
+                <title>Others → 01/01/1997: 29529</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,525.4882912414768C482.5,525.4882912414768,482.5,197.10651686673089,960,197.10651686673089" stroke="#17becf" stroke-width="4.12636024258699" />
+                <title>Others → 01/01/1998: 33417</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,529.6862086483986C482.5,529.6862086483986,482.5,215.0105765145433,960,215.0105765145433" stroke="#17becf" stroke-width="4.269474571256778" />
+                <title>Others → 01/01/1999: 34576</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,537.3786964250525C482.5,537.3786964250525,482.5,252.76586565382115,960,252.76586565382115" stroke="#17becf" stroke-width="4.598180647977207" />
+                <title>Others → 01/01/2000: 37238</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,542.1900050551557C482.5,542.1900050551557,482.5,273.95000939966627,960,273.95000939966627" stroke="#17becf" stroke-width="5.024436612229243" />
+                <title>Others → 01/01/2001: 40690</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,547.1665928301463C482.5,547.1665928301463,482.5,295.64517872721956,960,295.64517872721956" stroke="#17becf" stroke-width="4.928738937752033" />
+                <title>Others → 01/01/2002: 39915</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,533.4502760175454C482.5,533.4502760175454,482.5,233.88760367983073,960,233.88760367983073" stroke="#17becf" stroke-width="3.258660167036857" />
+                <title>Others → 01/01/2003: 26390</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,551.5955429453868C482.5,551.5955429453868,482.5,318.8354544322828,960,318.8354544322828" stroke="#17becf" stroke-width="3.929161292728791" />
+                <title>Others → 01/01/2004: 31820</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,555.8092041632709C482.5,555.8092041632709,482.5,343.6656178352745,960,343.6656178352745" stroke="#17becf" stroke-width="4.498161143039736" />
+                <title>Others → 01/01/2005: 36428</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,560.4112127182273C482.5,560.4112127182273,482.5,369.6437828893818,960,369.6437828893818" stroke="#17becf" stroke-width="4.705855966872854" />
+                <title>Others → 01/01/2006: 38110</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,565.1762777624057C482.5,565.1762777624057,482.5,396.32165229500526,960,396.32165229500526" stroke="#17becf" stroke-width="4.824274121484008" />
+                <title>Others → 01/01/2007: 39069</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,570.0487711637392C482.5,570.0487711637392,482.5,423.66989934545046,960,423.66989934545046" stroke="#17becf" stroke-width="4.920712681182977" />
+                <title>Others → 01/01/2008: 39850</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,575.2036653154331C482.5,575.2036653154331,482.5,453.0543459470302,960,453.0543459470302" stroke="#17becf" stroke-width="5.389075622204985" />
+                <title>Others → 01/01/2009: 43643</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,580.8284041785927C482.5,580.8284041785927,482.5,484.64910012685766,960,484.64910012685766" stroke="#17becf" stroke-width="5.86040210411403" />
+                <title>Others → 01/01/2010: 47460</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,586.9292852776026C482.5,586.9292852776026,482.5,518.6556826652513,960,518.6556826652513" stroke="#17becf" stroke-width="6.341360093905942" />
+                <title>Others → 01/01/2011: 51355</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,606.8572455298665C482.5,606.8572455298665,482.5,628.8165857992965,960,628.8165857992965" stroke="#17becf" stroke-width="7.110151992351242" />
+                <title>Others → 01/01/2012: 57581</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,613.956160763021C482.5,613.956160763021,482.5,666.4561607630209,960,666.4561607630209" stroke="#17becf" stroke-width="7.087678473957884" />
+                <title>Others → 01/01/2013: 57399</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,593.3456600002116C482.5,593.3456600002116,482.5,554.8625708313991,960,554.8625708313991" stroke="#17becf" stroke-width="6.491389351312148" />
+                <title>Others → 01/01/2014: 52570</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,599.9467621047793C482.5,599.9467621047793,482.5,591.7368731014816,960,591.7368731014816" stroke="#17becf" stroke-width="6.7108148578231175" />
+                <title>Others → 01/01/2015: 54347</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,254.93430691699518C482.5,254.93430691699518,482.5,0.4640411105617472,960,0.4640411105617472" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1979: 16</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,254.93652957266045C482.5,254.93652957266045,482.5,8.122707728844075,960,8.122707728844075" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1980: 20</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,254.93918441137177C482.5,254.93918441137177,482.5,15.910597077888207,960,15.910597077888207" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1981: 23</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,254.94245665443455C482.5,254.94245665443455,482.5,23.950634364071004,960,23.950634364071004" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1982: 30</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.02136093055188C482.5,255.02136093055188,482.5,40.818146446296154,960,40.818146446296154" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1983: 80</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.03099243843474C482.5,255.03099243843474,482.5,49.16114404774326,960,49.16114404774326" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1984: 76</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.04062394631762C482.5,255.04062394631762,482.5,57.52463947365902,960,57.52463947365902" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1985: 80</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.05087285855197C482.5,255.05087285855197,482.5,65.93036535721505,960,65.93036535721505" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1986: 86</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.06390009036787C482.5,255.06390009036787,482.5,74.51161929789285,960,74.51161929789285" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1987: 125</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.08161959525495C482.5,255.08161959525495,482.5,83.47862747736649,960,83.47862747736649" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1988: 162</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.1024878623345C482.5,255.1024878623345,482.5,92.74501502686593,960,92.74501502686593" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1989: 176</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.13564247600823C482.5,255.13564247600823,482.5,102.29658164630742,960,102.29658164630742" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1990: 361</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,254.98036528161452C482.5,254.98036528161452,482.5,32.51367487638053,960,32.51367487638053" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1991: 584</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.2021369246611C482.5,255.2021369246611,482.5,112.56915306739081,960,112.56915306739081" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1992: 716</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.3056756344019C482.5,255.3056756344019,482.5,123.22488562899392,960,123.22488562899392" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1993: 961</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.43354007559049C482.5,255.43354007559049,482.5,135.4315379214793,960,135.4315379214793" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1994: 1110</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.5858537290971C482.5,255.5858537290971,482.5,148.09865037928788,960,148.09865037928788" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1995: 1357</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,255.78311441939044C482.5,255.78311441939044,482.5,161.18695608566654,960,161.18695608566654" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1996: 1838</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,256.1080543295669C482.5,256.1080543295669,482.5,175.05652525839002,960,175.05652525839002" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1997: 3425</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,256.67884465249716C482.5,256.67884465249716,482.5,190.61247267670743,960,190.61247267670743" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1998: 5820</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,257.4490565809508C482.5,257.4490565809508,482.5,208.04063705040997,960,208.04063705040997" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/1999: 6655</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,259.46932709981746C482.5,259.46932709981746,482.5,244.9531692499369,960,244.9531692499369" stroke="#f8e71c" stroke-width="1" />
+                <title>Peru → 01/01/2000: 7965</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,260.5189762377446C482.5,260.5189762377446,482.5,265.1586653582734,960,265.1586653582734" stroke="#f8e71c" stroke-width="1.1157731439691188" />
+                <title>Peru → 01/01/2001: 9036</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,261.6560498318393C482.5,261.6560498318393,482.5,286.6955322101109,960,286.6955322101109" stroke="#f8e71c" stroke-width="1.1583740442202637" />
+                <title>Peru → 01/01/2002: 9381</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,258.4187518553631C482.5,258.4187518553631,482.5,226.50758424545378,960,226.50758424545378" stroke="#f8e71c" stroke-width="1.1176253570235162" />
+                <title>Peru → 01/01/2003: 9051</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,263.01551247333197C482.5,263.01551247333197,482.5,309.4054673297337,960,309.4054673297337" stroke="#f8e71c" stroke-width="1.5605512387651308" />
+                <title>Peru → 01/01/2004: 12638</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,264.6468182507751C482.5,264.6468182507751,482.5,333.0644146779946,960,333.0644146779946" stroke="#f8e71c" stroke-width="1.7020603161211079" />
+                <title>Peru → 01/01/2005: 13784</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,266.37480954965775C482.5,266.37480954965775,482.5,358.5405065134899,960,358.5405065134899" stroke="#f8e71c" stroke-width="1.753922281644241" />
+                <title>Peru → 01/01/2006: 14204</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,268.12045861299237C482.5,268.12045861299237,482.5,384.92801065261904,960,384.92801065261904" stroke="#f8e71c" stroke-width="1.7373758450249557" />
+                <title>Peru → 01/01/2007: 14070</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,269.8598718923771C482.5,269.8598718923771,482.5,412.0006484005698,960,412.0006484005698" stroke="#f8e71c" stroke-width="1.7414507137446305" />
+                <title>Peru → 01/01/2008: 14103</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,271.6928836714442C482.5,271.6928836714442,482.5,440.23993341105063,960,440.23993341105063" stroke="#f8e71c" stroke-width="1.9245728443894072" />
+                <title>Peru → 01/01/2009: 15586</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,273.74624706354933C482.5,273.74624706354933,482.5,470.58462900046516,960,470.58462900046516" stroke="#f8e71c" stroke-width="2.1821539398209677" />
+                <title>Peru → 01/01/2010: 17672</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,276.050832286266C482.5,276.050832286266,482.5,503.17636772703963,960,503.17636772703963" stroke="#f8e71c" stroke-width="2.4270165056123316" />
+                <title>Peru → 01/01/2011: 19655</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,283.55717265095296C482.5,283.55717265095296,482.5,611.6334200723444,960,611.6334200723444" stroke="#f8e71c" stroke-width="2.610632559738281" />
+                <title>Peru → 01/01/2012: 21142</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,286.1695956833105C482.5,286.1695956833105,482.5,648.8997741056078,960,648.8997741056078" stroke="#f8e71c" stroke-width="2.614213504976783" />
+                <title>Peru → 01/01/2013: 21171</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,278.52767332304165C482.5,278.52767332304165,482.5,537.6644021787065,960,537.6644021787065" stroke="#f8e71c" stroke-width="2.526665567938923" />
+                <title>Peru → 01/01/2014: 20462</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,281.02143123904744C482.5,281.02143123904744,482.5,574.1188694897921,960,574.1188694897921" stroke="#f8e71c" stroke-width="2.4608502640726613" />
+                <title>Peru → 01/01/2015: 19929</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,402.72526438766346C482.5,402.72526438766346,482.5,0.5736921233820856,960,0.5736921233820856" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1979: 16</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,402.72779574550447C482.5,402.72779574550447,482.5,8.252053940476175,960,8.252053940476175" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1980: 25</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,402.73705681077644C482.5,402.73705681077644,482.5,16.096435787679432,960,16.096435787679432" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1981: 125</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,402.7573076735045C482.5,402.7573076735045,482.5,24.204078850347738,960,24.204078850347738" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1982: 203</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.09286693852624C482.5,403.09286693852624,482.5,41.16870863705847,960,41.16870863705847" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1983: 284</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.13719657096146C482.5,403.13719657096146,482.5,49.562827318806946,960,49.562827318806946" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1984: 434</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.1960352056562C482.5,403.1960352056562,482.5,57.958983434915254,960,57.958983434915254" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1985: 519</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.26444360779857C482.5,403.26444360779857,482.5,66.38915853078935,960,66.38915853078935" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1986: 589</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.3616230527193C482.5,403.3616230527193,482.5,75.10321614746745,960,75.10321614746745" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1987: 985</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.50374953442673C482.5,403.50374953442673,482.5,84.19747136377818,960,84.19747136377818" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1988: 1317</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.68082110242716C482.5,403.68082110242716,482.5,93.52127751796395,960,93.52127751796395" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1989: 1551</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.90537106505525C482.5,403.90537106505525,482.5,103.24139552535564,960,103.24139552535564" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1990: 2086</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,402.9225868183919C482.5,402.9225868183919,482.5,33.186151695997154,960,33.186151695997154" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1991: 2474</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,404.31347534137416C482.5,404.31347534137416,482.5,114.02289335335234,960,114.02289335335234" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1992: 4524</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,404.9254465345472C482.5,404.9254465345472,482.5,124.84094151895582,960,124.84094151895582" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1993: 5388</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,405.62280474952786C482.5,405.62280474952786,482.5,137.17477910784316,960,137.17477910784316" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1994: 5907</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,406.38912703056735C482.5,406.38912703056735,482.5,149.9483938162796,960,149.9483938162796" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1995: 6505</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,407.2568888465526C482.5,407.2568888465526,482.5,163.25229712219019,960,163.25229712219019" stroke="#f5a623" stroke-width="1" />
+                <title>Philippines → 01/01/1996: 7550</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,408.384577894505C482.5,408.384577894505,482.5,177.71716757059707,960,177.71716757059707" stroke="#f5a623" stroke-width="1.3230975251913575" />
+                <title>Philippines → 01/01/1997: 10715</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,409.9701957499397C482.5,409.9701957499397,482.5,194.11926765259844,960,194.11926765259844" stroke="#f5a623" stroke-width="1.8481381856779326" />
+                <title>Philippines → 01/01/1998: 14967</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,411.9112532905133C482.5,411.9112532905133,482.5,211.85885078118034,960,211.85885078118034" stroke="#f5a623" stroke-width="2.0339768954691593" />
+                <title>Philippines → 01/01/1999: 16472</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,416.51752193549464C482.5,416.51752193549464,482.5,249.31315529911856,960,249.31315529911856" stroke="#f5a623" stroke-width="2.3072400614279527" />
+                <title>Philippines → 01/01/2000: 18685</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,418.93410430756717C482.5,418.93410430756717,482.5,270.17482875219304,960,270.17482875219304" stroke="#f5a623" stroke-width="2.5259246827171635" />
+                <title>Philippines → 01/01/2001: 20456</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,421.50676649969034C482.5,421.50676649969034,482.5,291.87110940757896,960,291.87110940757896" stroke="#f5a623" stroke-width="2.619399701529096" />
+                <title>Philippines → 01/01/2002: 21213</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,414.1460718215143C482.5,414.1460718215143,482.5,231.0404435130459,960,231.0404435130459" stroke="#f5a623" stroke-width="2.4356601665328537" />
+                <title>Philippines → 01/01/2003: 19725</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,424.30323776921983C482.5,424.30323776921983,482.5,315.38410236715345,960,315.38410236715345" stroke="#f5a623" stroke-width="2.973542837529919" />
+                <title>Philippines → 01/01/2004: 24081</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,427.4350830824656C482.5,427.4350830824656,482.5,339.77146336927376,960,339.77146336927376" stroke="#f5a623" stroke-width="3.2901477889616166" />
+                <title>Philippines → 01/01/2005: 26645</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,430.7833286209002C482.5,430.7833286209002,482.5,365.58768326199163,960,365.58768326199163" stroke="#f5a623" stroke-width="3.406343287907493" />
+                <title>Philippines → 01/01/2006: 27586</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,434.2171464024479C482.5,434.2171464024479,482.5,392.1788690966693,960,392.1788690966693" stroke="#f5a623" stroke-width="3.4612922751879553" />
+                <title>Philippines → 01/01/2007: 28031</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,437.7227683100711C482.5,437.7227683100711,482.5,419.4345672348298,960,419.4345672348298" stroke="#f5a623" stroke-width="3.549951540058454" />
+                <title>Philippines → 01/01/2008: 28749</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,441.4192916431675C482.5,441.4192916431675,482.5,448.43826057286043,960,448.43826057286043" stroke="#f5a623" stroke-width="3.843095126134449" />
+                <title>Philippines → 01/01/2009: 31123</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,445.4242701902563C482.5,445.4242701902563,482.5,479.63546809077906,960,479.63546809077906" stroke="#f5a623" stroke-width="4.1668619680431505" />
+                <title>Philippines → 01/01/2010: 33745</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,449.792220755572C482.5,449.792220755572,482.5,513.2004830370043,960,513.2004830370043" stroke="#f5a623" stroke-width="4.569039162588018" />
+                <title>Philippines → 01/01/2011: 37002</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,464.7600779290293C482.5,464.7600779290293,482.5,622.8006595390482,960,622.8006595390482" stroke="#f5a623" stroke-width="4.9217005281453226" />
+                <title>Philippines → 01/01/2012: 39858</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,469.73740658924174C482.5,469.73740658924174,482.5,660.3958431299022,960,660.3958431299022" stroke="#f5a623" stroke-width="5.032956792279472" />
+                <title>Philippines → 01/01/2013: 40759</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,454.62273066100573C482.5,454.62273066100573,482.5,549.0708858316033,960,549.0708858316033" stroke="#f5a623" stroke-width="5.091980648279609" />
+                <title>Philippines → 01/01/2014: 41237</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,459.7339743250511C482.5,459.7339743250511,482.5,585.8162123326645,960,585.8162123326645" stroke="#f5a623" stroke-width="5.130506679811079" />
+                <title>Philippines → 01/01/2015: 41549</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.6404093416051C482.5,151.6404093416051,482.5,0.43304741211816056,960,0.43304741211816056" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1979: 214</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.66806905655076C482.5,151.66806905655076,482.5,8.088133085161985,960,8.088133085161985" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1980: 234</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.6999271210864C482.5,151.6999271210864,482.5,15.86929272677514,960,15.86929272677514" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1981: 282</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.735983535212C482.5,151.735983535212,482.5,23.901118535083437,960,23.901118535083437" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1982: 302</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.7937725825092C482.5,151.7937725825092,482.5,40.75517120244664,960,40.75517120244664" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1983: 334</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.83600304014948C482.5,151.83600304014948,482.5,49.08841381514057,960,49.08841381514057" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1984: 350</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.880023970409C482.5,151.880023970409,482.5,57.445179533625364,960,57.445179533625364" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1985: 363</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.92392141979823C482.5,151.92392141979823,482.5,65.84726273150774,960,65.84726273150774" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1986: 348</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.95707603347194C482.5,151.95707603347194,482.5,74.39937518679635,960,74.39937518679635" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1987: 189</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.98103132230884C482.5,151.98103132230884,482.5,83.34063760481385,960,83.34063760481385" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1988: 199</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.00523357288628C482.5,152.00523357288628,482.5,92.59319529684045,960,92.59319529684045" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1989: 193</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.03060889173153C482.5,152.03060889173153,482.5,102.02745508950345,960,102.02745508950345" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1990: 218</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.76389021189829C482.5,151.76389021189829,482.5,32.300793855995096,960,32.300793855995096" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1991: 150</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.0440683065935C482.5,152.0440683065935,482.5,112.02917122159877,960,112.02917122159877" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1992: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.07135757892829C482.5,152.07135757892829,482.5,122.55555757156978,960,122.55555757156978" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1993: 442</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.12852922187403C482.5,152.12852922187403,482.5,134.68139163444826,960,134.68139163444826" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1994: 484</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.19181316789928C482.5,152.19181316789928,482.5,147.2646605813278,960,147.2646605813278" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1995: 541</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.26176508092036C482.5,152.26176508092036,482.5,160.23541249918733,960,160.23541249918733" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1996: 592</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.34363289792475C482.5,152.34363289792475,482.5,173.77497904605232,960,173.77497904605232" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1997: 734</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.45180214030157C482.5,152.45180214030157,482.5,188.87793689169922,960,188.87793689169922" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1998: 1018</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.58898938719727C482.5,152.58898938719727,482.5,206.09920906722556,960,206.09920906722556" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/1999: 1204</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,153.09587835975074C482.5,153.09587835975074,482.5,242.627839241011,960,242.627839241011" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2000: 1752</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,153.34358098555884C482.5,153.34358098555884,482.5,262.45332297102027,960,262.45332297102027" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2001: 2260</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,153.63703327381057C482.5,153.63703327381057,482.5,283.86757331865664,960,283.86757331865664" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2002: 2493</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,152.82551699424386C482.5,152.82551699424386,482.5,223.83372948012538,960,223.83372948012538" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2003: 2627</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,154.0762547294434C482.5,154.0762547294434,482.5,305.3111503729878,960,305.3111503729878" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2004: 4621</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,154.70335232922727C482.5,154.70335232922727,482.5,328.3776982460172,960,328.3776982460172" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2005: 5536</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,155.4125647077561C482.5,155.4125647077561,482.5,353.6598633747171,960,353.6598633747171" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2006: 5951</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,156.26822539845267C482.5,156.26822539845267,482.5,379.9146873187162,960,379.9146873187162" stroke="#bd10e0" stroke-width="1" />
+                <title>Romania → 01/01/2007: 7908</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,157.3503500052669C482.5,157.3503500052669,482.5,406.83494967272514,960,406.83494967272514" stroke="#bd10e0" stroke-width="1.187762491350039" />
+                <title>Romania → 01/01/2008: 9619</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,158.63844070373014C482.5,158.63844070373014,482.5,434.58611480293706,960,434.58611480293706" stroke="#bd10e0" stroke-width="1.3884189055764464" />
+                <title>Romania → 01/01/2009: 11244</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,160.08304340529C482.5,160.08304340529,482.5,464.48306875666856,960,464.48306875666856" stroke="#bd10e0" stroke-width="1.5007864975432346" />
+                <title>Romania → 01/01/2010: 12154</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,161.61760192085842C482.5,161.61760192085842,482.5,496.63274596759345,960,496.63274596759345" stroke="#bd10e0" stroke-width="1.5683305335936006" />
+                <title>Romania → 01/01/2011: 12701</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,166.87294776053588C482.5,166.87294776053588,482.5,604.5296273448133,960,604.5296273448133" stroke="#bd10e0" stroke-width="1.7792358600543416" />
+                <title>Romania → 01/01/2012: 14409</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,168.6582341832346C482.5,168.6582341832346,482.5,641.7549239887041,960,641.7549239887041" stroke="#bd10e0" stroke-width="1.7913369853430725" />
+                <title>Romania → 01/01/2013: 14507</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,163.27891354978277C482.5,163.27891354978277,482.5,530.8617792938204,960,530.8617792938204" stroke="#bd10e0" stroke-width="1.7542927242551205" />
+                <title>Romania → 01/01/2014: 14207</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,165.06969487120955C482.5,165.06969487120955,482.5,567.269076912454,960,567.269076912454" stroke="#bd10e0" stroke-width="1.8272699185983863" />
+                <title>Romania → 01/01/2015: 14798</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,223.97158957176336C482.5,223.97158957176336,482.5,0.4623123783776427,960,0.4623123783776427" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1979: 12</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,223.97368874655837C482.5,223.97368874655837,482.5,8.120114630567919,960,8.120114630567919" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1980: 22</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,223.97764013440772C482.5,223.97764013440772,482.5,15.906583949603677,960,15.906583949603677" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1981: 42</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,223.984925505755C482.5,223.984925505755,482.5,23.944089877945462,960,23.944089877945462" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1982: 76</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.08025273762135C482.5,224.08025273762135,482.5,40.80728012971036,960,40.80728012971036" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1983: 96</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.09494696118625C482.5,224.09494696118625,482.5,49.147684632881294,960,49.147684632881294" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1984: 142</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.1145186791277C482.5,224.1145186791277,482.5,57.508895662696645,960,57.508895662696645" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1985: 175</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.13822700622399C482.5,224.13822700622399,482.5,65.91215192884681,960,65.91215192884681" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1986: 209</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.17014681119477C482.5,224.17014681119477,482.5,74.48488568947437,960,74.48488568947437" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1987: 308</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.21243900927018C482.5,224.21243900927018,482.5,83.44534938282247,960,83.44534938282247" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1988: 377</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.2638070513121C482.5,224.2638070513121,482.5,92.70605681228842,960,92.70605681228842" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1989: 455</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.33110412562192C482.5,224.33110412562192,482.5,102.23508817290141,960,102.23508817290141" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1990: 635</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.03197171733672C482.5,224.03197171733672,482.5,32.435264523744365,960,32.435264523744365" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1991: 686</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.44587959455941C482.5,224.44587959455941,482.5,112.44937662320643,960,112.44937662320643" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1992: 1224</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.61930847688615C482.5,224.61930847688615,482.5,123.0676944811107,960,123.0676944811107" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1993: 1585</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,224.83694351077787C482.5,224.83694351077787,482.5,135.24322959428218,960,135.24322959428218" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1994: 1940</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,225.10255086277851C482.5,225.10255086277851,482.5,147.86903770097774,960,147.86903770097774" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1995: 2362</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,225.413599175047C482.5,225.413599175047,482.5,160.90825976141485,960,160.90825976141485" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1996: 2676</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,225.792253263801C482.5,225.792253263801,482.5,174.6316275837112,960,174.6316275837112" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1997: 3457</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,226.2911777202206C482.5,226.2911777202206,482.5,189.96765557203648,960,189.96765557203648" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1998: 4624</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,226.89740705292493C482.5,226.89740705292493,482.5,207.30901289392293,960,207.30901289392293" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/1999: 5195</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,228.47728304789092C482.5,228.47728304789092,482.5,244.08367870176752,960,244.08367870176752" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/2000: 6118</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,229.30071523144096C482.5,229.30071523144096,482.5,264.15507458496563,960,264.15507458496563" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/2001: 7219</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,230.23169925301633C482.5,230.23169925301633,482.5,285.6310653677486,960,285.6310653677486" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/2002: 7860</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,227.65885183958778C482.5,227.65885183958778,482.5,225.5080683408657,960,225.5080683408657" stroke="#7ed321" stroke-width="1" />
+                <title>Sri Lanka → 01/01/2003: 7138</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,231.25418259947895C482.5,231.25418259947895,482.5,308.0879881841407,960,308.0879881841407" stroke="#7ed321" stroke-width="1.0744070524209055" />
+                <title>Sri Lanka → 01/01/2004: 8701</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,232.4008877014565C482.5,232.4008877014565,482.5,331.60388294416697,960,331.60388294416697" stroke="#7ed321" stroke-width="1.219003151534212" />
+                <title>Sri Lanka → 01/01/2005: 9872</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,233.64742708706612C482.5,233.64742708706612,482.5,357.02650756282526,960,357.02650756282526" stroke="#7ed321" stroke-width="1.2740756196849674" />
+                <title>Sri Lanka → 01/01/2006: 10318</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,234.9389135094624C482.5,234.9389135094624,482.5,383.40487411755277,960,383.40487411755277" stroke="#7ed321" stroke-width="1.3088972251076425" />
+                <title>Sri Lanka → 01/01/2007: 10600</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,236.27787832648644C482.5,236.27787832648644,482.5,410.44540683922725,960,410.44540683922725" stroke="#7ed321" stroke-width="1.3690324089404182" />
+                <title>Sri Lanka → 01/01/2008: 11087</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,237.7247654241467C482.5,237.7247654241467,482.5,438.51527609566585,960,438.51527609566585" stroke="#7ed321" stroke-width="1.5247417863801103" />
+                <title>Sri Lanka → 01/01/2009: 12348</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,239.31075372219223C482.5,239.31075372219223,482.5,468.6699346256992,960,468.6699346256992" stroke="#7ed321" stroke-width="1.6472348097109388" />
+                <title>Sri Lanka → 01/01/2010: 13340</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,241.03034832189496C482.5,241.03034832189496,482.5,501.0668822793862,960,501.0668822793862" stroke="#7ed321" stroke-width="1.7919543896945385" />
+                <title>Sri Lanka → 01/01/2011: 14512</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,246.90439506217638C482.5,246.90439506217638,482.5,609.3325392757365,960,609.3325392757365" stroke="#7ed321" stroke-width="1.9911290334774279" />
+                <title>Sri Lanka → 01/01/2012: 16125</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,248.91663932447392C482.5,248.91663932447392,482.5,646.5759876075605,960,646.5759876075605" stroke="#7ed321" stroke-width="2.033359491117693" />
+                <title>Sri Lanka → 01/01/2013: 16467</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,242.90781321426752C482.5,242.90781321426752,482.5,535.4195816972118,960,535.4195816972118" stroke="#7ed321" stroke-width="1.9629753950505842" />
+                <title>Sri Lanka → 01/01/2014: 15897</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,244.89906572861526C482.5,244.89906572861526,482.5,571.8786795409334,960,571.8786795409334" stroke="#7ed321" stroke-width="2.019529633644858" />
+                <title>Sri Lanka → 01/01/2015: 16355</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,0.066062265606848,960,0.066062265606848" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1979: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,7.714233009914254,960,7.714233009914254" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1980: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,15.482797602757506,960,15.482797602757506" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1981: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,23.510425061475836,960,23.510425061475836" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1982: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,40.02206527551606,960,40.02206527551606" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1983: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,48.36456895348199,960,48.36456895348199" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1984: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,56.73152184376596,960,56.73152184376596" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1985: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,65.13588943774876,960,65.13588943774876" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1986: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,73.59705823206644,960,73.59705823206644" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1987: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,82.51053745426799,960,82.51053745426799" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1988: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,91.74197991747447,960,91.74197991747447" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1989: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,101.15469229827131,960,101.15469229827131" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1990: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,31.817860172278497,960,31.817860172278497" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1991: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,111.11985809275984,960,111.11985809275984" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1992: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,121.56116612309884,960,121.56116612309884" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1993: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7061752531232C482.5,77.7061752531232,482.5,133.63834872308183,960,133.63834872308183" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1994: 0</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.70629873399349C482.5,77.70629873399349,482.5,146.1762384501286,960,146.1762384501286" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1995: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.70660743616924C482.5,77.70660743616924,482.5,159.13241962529352,960,159.13241962529352" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1996: 3</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.7080274661776C482.5,77.7080274661776,482.5,172.58252428163115,960,172.58252428163115" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1997: 20</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.71210233489727C482.5,77.71210233489727,482.5,187.5017425922818,960,187.5017425922818" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1998: 46</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.71914074450399C482.5,77.71914074450399,482.5,204.66090389005063,960,204.66090389005063" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/1999: 68</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.80150248498954C482.5,77.80150248498954,482.5,241.03555341858052,960,241.03555341858052" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2000: 132</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.82453166729921C482.5,77.82453166729921,482.5,260.6364871859617,960,260.6364871859617" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2001: 241</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.85848890662983C482.5,77.85848890662983,482.5,282.0412912470207,960,282.0412912470207" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2002: 309</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,77.75834592082208C482.5,77.75834592082208,482.5,222.5881779414781,960,222.5881779414781" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2003: 567</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,78.00672769141677C482.5,78.00672769141677,482.5,303.71596275010546,960,303.71596275010546" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2004: 2092</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,78.3183316676016C482.5,78.3183316676016,482.5,326.51184055545224,960,326.51184055545224" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2005: 2955</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,78.71637225299165C482.5,78.71637225299165,482.5,351.67521708693,960,351.67521708693" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2006: 3492</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,79.1561493725408C482.5,79.1561493725408,482.5,377.7730968447865,960,377.7730968447865" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2007: 3631</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,79.62222791746238C482.5,79.62222791746238,482.5,404.53493324220943,960,404.53493324220943" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2008: 3918</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,80.15974014584857C482.5,80.15974014584857,482.5,432.021911050429,960,432.021911050429" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2009: 4788</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,80.80900256185008C482.5,80.80900256185008,482.5,461.75303019535676,960,461.75303019535676" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2010: 5728</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,81.58946340253807C482.5,81.58946340253807,482.5,493.73786044444034,960,493.73786044444034" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2011: 6913</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,84.5129347471641C482.5,84.5129347471641,482.5,601.3915462476177,960,601.3915462476177" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2012: 7820</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,85.48664314986091C482.5,85.48664314986091,482.5,638.7032177602786,960,638.7032177602786" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2013: 7951</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,82.50809933708413C482.5,82.50809933708413,482.5,528.095252135337,960,528.095252135337" stroke="#b8e986" stroke-width="1" />
+                <title>Ucraine → 01/01/2014: 7966</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,83.51502409388982C482.5,83.51502409388982,482.5,564.4185827621712,960,564.4185827621712" stroke="#b8e986" stroke-width="1.0302009008559492" />
+                <title>Ucraine → 01/01/2015: 8343</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,105.21804705679573C482.5,105.21804705679573,482.5,0.28073375861153066,960,0.28073375861153066" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1979: 893</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,105.33084683180854C482.5,105.33084683180854,482.5,7.930448013797602,960,7.930448013797602" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1980: 934</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,105.45000587164147C482.5,105.45000587164147,482.5,15.702470071009063,960,15.702470071009063" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1981: 996</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,105.57484503150786C482.5,105.57484503150786,482.5,23.729850567986805,960,23.729850567986805" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1982: 1026</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,105.88367068811111C482.5,105.88367068811111,482.5,40.41016565084751,960,40.41016565084751" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1983: 1822</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,106.10791194856351C482.5,106.10791194856351,482.5,48.74501351485526,960,48.74501351485526" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1984: 1810</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,106.33128884292385C482.5,106.33128884292385,482.5,57.102087935515776,960,57.102087935515776" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1985: 1808</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,106.55509792033023C482.5,106.55509792033023,482.5,65.50380069078727,960,65.50380069078727" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1986: 1817</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,106.7989108987241C482.5,106.7989108987241,482.5,73.99429619179958,960,73.99429619179958" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1987: 2132</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,107.06908704292557C482.5,107.06908704292557,482.5,82.91629559405136,960,82.91629559405136" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1988: 2244</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,107.34864773326932C482.5,107.34864773326932,482.5,92.15588779469718,960,92.15588779469718" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1989: 2284</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,107.63530857365492C482.5,107.63530857365492,482.5,101.5754533637953,960,101.5754533637953" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1990: 2359</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,105.70468516662115C482.5,105.70468516662115,482.5,32.042163173166045,960,32.042163173166045" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1991: 1077</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,107.93975065936273C482.5,107.93975065936273,482.5,111.55389335184034,960,111.55389335184034" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1992: 2572</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,108.26246791387395C482.5,108.26246791387395,482.5,121.99797970176094,960,121.99797970176094" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1993: 2655</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,108.59352012712995C482.5,108.59352012712995,482.5,134.08220071135062,960,134.08220071135062" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1994: 2707</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,108.92796806431902C482.5,108.92796806431902,482.5,146.62262179623843,960,146.62262179623843" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1995: 2710</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,109.26013160540765C482.5,109.26013160540765,482.5,159.57590117095148,960,159.57590117095148" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1996: 2670</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,109.59544390868875C482.5,109.59544390868875,482.5,173.0421818212975,960,173.0421818212975" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1997: 2761</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,109.94724090815401C482.5,109.94724090815401,482.5,187.99869135477667,960,187.99869135477667" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1998: 2937</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,110.31422605466533C482.5,110.31422605466533,482.5,205.1624214447464,960,205.1624214447464" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/1999: 3007</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,110.87273003100134C482.5,110.87273003100134,482.5,241.54657900028886,960,241.54657900028886" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2000: 3039</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,111.26039822328676C482.5,111.26039822328676,482.5,261.18134652613037,960,261.18134652613037" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2001: 3240</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,111.6514003990701C482.5,111.6514003990701,482.5,282.56361532836075,960,282.56361532836075" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2002: 3093</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,110.592490195871C482.5,110.592490195871,482.5,222.91472310296842,960,222.91472310296842" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2003: 1500</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,111.9388638651126C482.5,111.9388638651126,482.5,304.15178848180517,960,304.15178848180517" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2004: 1563</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,112.14044638586621C482.5,112.14044638586621,482.5,327.02545923543664,960,327.02545923543664" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2005: 1702</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,112.35357436799224C482.5,112.35357436799224,482.5,352.23384454413633,960,352.23384454413633" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2006: 1750</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,112.57157984449482C482.5,112.57157984449482,482.5,378.34580112120625,960,378.34580112120625" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2007: 1781</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,112.79328974710623C482.5,112.79328974710623,482.5,405.1299875561522,960,405.1299875561522" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2008: 1810</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,113.0243841958599C482.5,113.0243841958599,482.5,432.68901645218784,960,432.68901645218784" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2009: 1933</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,113.26473970988556C482.5,113.26473970988556,482.5,462.48169081095676,960,462.48169081095676" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2010: 1960</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,113.51268929743425C482.5,113.51268929743425,482.5,494.55203156271835,960,494.55203156271835" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2011: 2056</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,114.14725748987087C482.5,114.14725748987087,482.5,602.2680134649587,960,602.2680134649587" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2012: 2136</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,114.39971412918527C482.5,114.39971412918527,482.5,639.5541244374688,960,639.5541244374688" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2013: 1953</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,113.73162088046404C482.5,113.73162088046404,482.5,528.869353711205,960,528.869353711205" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2014: 1490</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,113.91949702461511C482.5,113.91949702461511,482.5,565.224665883445,960,565.224665883445" stroke="#50e3c2" stroke-width="1" />
+                <title>United Kingdom → 01/01/2015: 1553</title>
+            </g>
+        </g>
+        <g>
+            <text x="956" y="1.3196400608231487" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1979</tspan></text>
+            <text x="956" y="9.012263918436098" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1980</tspan></text>
+            <text x="956" y="16.890726485840275" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1981</tspan></text>
+            <text x="956" y="25.003000081144574" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1982</tspan></text>
+            <text x="956" y="33.24628687982993" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1991</tspan></text>
+            <text x="956" y="41.54872101538572" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1983</tspan></text>
+            <text x="956" y="49.896410889903954" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1984</tspan></text>
+            <text x="956" y="58.27910759115031" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1985</tspan></text>
+            <text x="956" y="66.69199536518335" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1986</tspan></text>
+            <text x="956" y="75.34752304934247" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1987</tspan></text>
+            <text x="956" y="84.39942432714267" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1988</tspan></text>
+            <text x="956" y="93.69921345205643" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1989</tspan></text>
+            <text x="956" y="103.34357594552327" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1990</tspan></text>
+            <text x="956" y="113.50415021725074" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1992</tspan></text>
+            <text x="956" y="124.73931676270456" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1993</tspan></text>
+            <text x="956" y="137.0250585526127" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1994</tspan></text>
+            <text x="9" y="56.26690742916357" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">El Salvador</tspan></text>
+            <text x="9" y="68.86999505572517" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Japan</tspan></text>
+            <text x="956" y="149.75767761211182" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1995</tspan></text>
+            <text x="9" y="81.84185830141735" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ucraine</tspan></text>
+            <text x="956" y="162.9405079246999" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1996</tspan></text>
+            <text x="9" y="95.57022709896066" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Germany</tspan></text>
+            <text x="9" y="109.84160302361818" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">United Kingdom</tspan></text>
+            <text x="9" y="124.24374518991615" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Albania</tspan></text>
+            <text x="956" y="177.08698294905582" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1997</tspan></text>
+            <text x="956" y="193.09733997005213" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1998</tspan></text>
+            <text x="9" y="140.29719703464474" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">France</tspan></text>
+            <text x="956" y="210.65750539409802" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/1999</tspan></text>
+            <text x="956" y="228.83112378176043" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2003</tspan></text>
+            <text x="956" y="247.79094487057947" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2000</tspan></text>
+            <text x="956" y="268.2635918417953" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2001</tspan></text>
+            <text x="956" y="289.7858879509382" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2002</tspan></text>
+            <text x="956" y="311.95479163737144" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2004</tspan></text>
+            <text x="9" y="160.59054978219493" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Romania</tspan></text>
+            <text x="9" y="183.60900185624516" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Morocco</tspan></text>
+            <text x="956" y="335.8573667427208" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2005</tspan></text>
+            <text x="956" y="361.4557046398063" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2006</tspan></text>
+            <text x="9" y="208.3174748615629" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ecuador</tspan></text>
+            <text x="956" y="387.86525011428273" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2007</tspan></text>
+            <text x="956" y="414.93202252089463" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2008</tspan></text>
+            <text x="956" y="443.4395697220873" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2009</tspan></text>
+            <text x="9" y="236.95208387828723" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Sri Lanka</tspan></text>
+            <text x="956" y="474.1640924685237" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2010</tspan></text>
+            <text x="956" y="507.20283194555947" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2011</tspan></text>
+            <text x="956" y="542.4673141096298" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2014</tspan></text>
+            <text x="956" y="579.1002730187241" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2015</tspan></text>
+            <text x="956" y="616.2319711629326" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2012</tspan></text>
+            <text x="9" y="271.2050107529158" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Peru</tspan></text>
+            <text x="956" y="653.685830897736" text-anchor="end"><tspan alignment-baseline="middle" x="956" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">01/01/2013</tspan></text>
+            <text x="9" y="311.81436238762615" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">China</tspan></text>
+            <text x="9" y="366.93814944007727" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Egypt</tspan></text>
+            <text x="9" y="437.4890807630413" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Philippines</tspan></text>
+            <text x="9" y="547.3769424926907" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Others</tspan></text>
+        </g>
+        <g>
+            <text x="962.5" y="-4" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Date</text>
+            <text x="2.5" y="48.5" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Country</text>
+        </g>
+    </g>
+</svg>
